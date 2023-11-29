@@ -8,8 +8,6 @@ function showData(e){
 	    lastName:document.getElelemntByQuerrySelector(".lastName").value,
      	phoneNumber:document.getElelemntByQuerrySelector(".phoneNumber").value,
 		email:document.getElelemntByQuerrySelector(".email").value,
-		
-
 	
 		}
 	
